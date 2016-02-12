@@ -1,0 +1,1 @@
+start "" %CurrDirName% -show-screen-selector
