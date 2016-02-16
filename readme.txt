@@ -7,4 +7,4 @@ and use batch file to show show resolution dialog.
 
 Requirement
 -Unity window player
--Have only one exe in folder.
+-EXE name must be same name with current directory name.  
